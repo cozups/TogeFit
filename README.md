@@ -39,7 +39,7 @@
 
 ##### 4. 프로젝트 구성
 
-![service-diagram](https://team-16-s3.s3.ap-northeast-2.amazonaws.com/service-diagram.jpg)
+![service-diagram](https://user-images.githubusercontent.com/58796245/227221521-6b47d504-0fbb-4280-880c-04f0e8f40e22.png)
 
 - 사용 스택
   - 프론트엔드
